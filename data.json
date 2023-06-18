@@ -1,0 +1,103 @@
+[
+    {
+      "id": "1",
+      "title": "E-commerce Website",
+      "image": "images/placeholder.png",
+      "studentName": "Muhammad Ahmad bin Abu Ali",
+      "studentID": "52213121234",
+      "supervisor": "Dr. Tony Stark",
+      "poster": "images/poster.png",
+      "field": "web"
+    },
+    {
+      "id": "2",
+      "title": "Mobile Expense Tracker",
+      "image": "images/placeholder.png",
+      "studentName": "Nurul Hidayah binti Razak",
+      "studentID": "52213121235",
+      "supervisor": "Sir John Smith",
+      "poster": "images/poster.png",
+      "field": "mobile"
+    },
+    {
+      "id": "3",
+      "title": "Student Management System",
+      "image": "images/placeholder.png",
+      "studentName": "Alex Johnson",
+      "studentID": "987654",
+      "supervisor": "Emily Brown",
+      "poster": "images/poster.png",
+      "field": "hybrid"
+    },
+    {
+      "id": "4",
+      "title": "Social Media App",
+      "image": "images/placeholder.png",
+      "studentName": "Sarah Wilson",
+      "studentID": "543210",
+      "supervisor": "Michael Thompson",
+      "poster": "images/poster.png",
+      "field": "mobile"
+    },
+    {
+      "id": "5",
+      "title": "Responsive Web Design",
+      "image": "images/placeholder.png",
+      "studentName": "Daniel Davis",
+      "studentID": "135790",
+      "supervisor": "Olivia Taylor",
+      "poster": "images/poster.png",
+      "field": "web"
+    },
+    {
+      "id": "6",
+      "title": "Online Learning Platform",
+      "image": "images/placeholder.png",
+      "studentName": "Sophia Martinez",
+      "studentID": "246813",
+      "supervisor": "William Clark",
+      "poster": "images/poster.png",
+      "field": "web"
+    },
+    {
+      "id": "7",
+      "title": "Mobile Fitness Tracker",
+      "image": "images/placeholder.png",
+      "studentName": "Liam Lee",
+      "studentID": "456789",
+      "supervisor": "Dr. Tony Stark",
+      "poster": "images/poster.png",
+      "field": "mobile"
+    },
+    {
+      "id": "8",
+      "title": "Inventory Management System",
+      "image": "images/placeholder.png",
+      "studentName": "Emma Turner",
+      "studentID": "789123",
+      "supervisor": "James Wright",
+      "poster": "images/poster.png",
+      "field": "hybrid"
+    },
+    {
+      "id": "9",
+      "title": "Event Booking Website",
+      "image": "images/placeholder.png",
+      "studentName": "Noah Murphy",
+      "studentID": "369258",
+      "supervisor": "Dr. Tony Stark",
+      "poster": "images/poster.png",
+      "field": "web"
+    },
+    {
+      "id": "10",
+      "title": "Restaurant Mobile App",
+      "image": "images/placeholder.png",
+      "studentName": "Mia Hall",
+      "studentID": "582731",
+      "supervisor": "Benjamin Adams",
+      "poster": "images/poster.png",
+      "field": "mobile"
+    }
+  ]
+  

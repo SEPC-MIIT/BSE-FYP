@@ -1,0 +1,11 @@
+/* 1 General */
+@import url('https://fonts.googleapis.com/css2?family=Urbanist');
+
+body {
+    font-family: Urbanist;
+    background-color: #f4f4f4;
+}
+
+.bg-nav {
+    background-color: #f4f4f4;
+}
